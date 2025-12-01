@@ -159,9 +159,9 @@ S A P O offers a **free tier** that provides ongoing access to a limited set of 
 During the current **beta period**, the free tier may include **more generous token allocations** or broader access than what will be offered after beta. Once beta ends, the free tier may include **reduced or more restricted limits**, especially for token-intensive features such as phonetic transliteration.
 
 The free tier:
-	- Has its own **token limits**, which may differ substantially from paid plans
-	- Is subject to **fair-use protections and rate limits**
-	- May include changes in limits, features, or availability as S A P O evolves
+- Has its own **token limits**, which may differ substantially from paid plans
+- Is subject to **fair-use protections and rate limits**
+- May include changes in limits, features, or availability as S A P O evolves
 
 We may modify, limit, or discontinue the free tier at any time, in accordance with applicable law and platform rules. Any such changes will not affect an existing paid subscription unless explicitly stated.
 
