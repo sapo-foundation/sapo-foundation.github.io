@@ -5,6 +5,9 @@
 
 This Privacy Policy explains how **S A P O** (referred to as **“S A P O,” “SAPO,” “we,” “us,”** or **“our”**) collects, uses, and shares information when you use our services.
 
+
+**Controller.** S A P O is operated by Happ Technologies Inc., a company organized under the laws of Delaware, United States. For the purposes of data protection laws (such as the GDPR), Happ Technologies Inc. is the controller of your personal data when you use S A P O. You can contact us at **juanmarzabala8a@gmail.com**.
+
 ---
 
 ## 0) Scope
@@ -146,7 +149,7 @@ We use subscription and payment-related data to:
 **Token budgets and unused tokens.**  
 Each subscription plan includes a **monthly AI token budget** used to perform phonetic transliteration and semantic translation. If you do not use your full token budget within a billing period:
 
-- The **unused portion** will be redirected to run additional AI processes that expand and improve S A P O’s **open phonetic database**.
+- The **unused portion** may be redirected to run additional AI processes that expand and improve S A P O’s **open phonetic database**.
 
 Your own private transliteration and translation sessions are **not automatically repurposed as training data** for the open phonetic database. If we ever wish to use your user content in a way that could reasonably identify you or your text, we will obtain **specific, informed consent** where required, or we will properly anonymize the content.
 
